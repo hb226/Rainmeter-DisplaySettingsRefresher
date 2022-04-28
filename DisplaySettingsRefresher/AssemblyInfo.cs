@@ -12,5 +12,5 @@ using System.Runtime.CompilerServices;
 #endif
 [assembly: AssemblyProduct("Rainmeter")]
 [assembly: AssemblyTitle("DisplaySettingsRefresher")]
-[assembly: AssemblyDescriptionD("Display Settings Changed Event Handler for Rainmeter")]
+[assembly: AssemblyDescription("Display Settings Changed Event Handler for Rainmeter")]
 [assembly: Guid("744dbd15-cd0b-4dfc-84c2-a663853d1d14")]
